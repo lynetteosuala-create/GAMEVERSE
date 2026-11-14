@@ -1,0 +1,6 @@
+{
+  "name": "GAMEVERSE",
+  "description": "Interactive multi-game arena featuring Rock Paper Scissors, Guess the Number, Tic-Tac-Toe, real-time online multiplayer, email verification, and live link previews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
